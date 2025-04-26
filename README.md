@@ -2,6 +2,9 @@
 
 If you've ever found yourself in a tricky situation where your hardware has been banned from playing your favorite games, then **FortniteSpoofer** might just be the solution you need. **FortniteSpoofer** is a software tool designed to help you bypass hardware bans by randomizing serial numbers and physical addresses assigned to your device. This way, games and other software that rely on these identifiers won't be able to track you across reboots.
 
+![image](https://github.com/user-attachments/assets/d4eea6c3-89c4-43b1-90d9-621f532e54e6)
+
+
 ## Features
 
 With **FortniteSpoofer**, you can benefit from a range of features such as:
